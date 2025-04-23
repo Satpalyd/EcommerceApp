@@ -80,7 +80,7 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-3 mt-3">
                 <IoCall />
-                <p>+91 70075 47417</p>
+                <p>+91 70075 47416</p>
               </div>
             </div>
           </div>
